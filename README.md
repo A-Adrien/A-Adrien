@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @A-Adrien
+- 👋 Hi, I’m @A-Adrien (adrien)
 - 👀 I’m interested in computer, programmation
 - 🌱 I’m currently learning how to use Git and GitHub
 - 💞️ I'm looking to collaborate but I don't know yet in which area
