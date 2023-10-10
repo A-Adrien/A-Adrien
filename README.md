@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @A-Adrien (adrien)
+- 👋 Hi, I’m adrien (@A-Adrien)
 - 👀 I’m interested in computer, programmation
 - 🌱 I’m currently learning how to use Git and GitHub
 - 💞️ I'm looking to collaborate but I don't know yet in which area
 - 🇫🇷 Sorry if my english is not perfect... baguette you know...
+- 📫 astadrien21@gmail.com
 
 <!---
 A-Adrien/A-Adrien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
