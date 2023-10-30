@@ -1,6 +1,6 @@
 - 👋 Hi, I’m adrien (@A-Adrien)
 - 👀 I’m interested in computer, programmation
-- 🌱 I’m currently making my website
+- 🌱 I’m currently learning PHP
 - 💞️ I'm looking to collaborate but I don't know yet in which area
 - 🇫🇷 Sorry if my english is not perfect... baguette you know...
 - 📫 astadrien21@gmail.com
